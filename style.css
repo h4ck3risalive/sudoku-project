@@ -95,6 +95,12 @@ button:hover {
     background-color: #45a049;
 }
 
+.button-container {
+    display: flex;
+    gap: 10px; /* Add space between buttons */
+    margin-top: 15px;
+}
+
 /* --- Color Theme --- */
 /* Define some color variables (optional but good practice) */
 :root {
